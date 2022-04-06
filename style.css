@@ -1,0 +1,130 @@
+    @font-face {
+    font-family: 'Montserrat';
+    src: local('Montserrat Regular'), local('Montserrat-Regular'), url('http://hb.bizmrg.com/fonts/montserrat/400.woff2') format('woff2'), url('http://hb.bizmrg.com/fonts/montserrat/400.woff') format('woff');
+    font-weight: 400;
+    font-style: normal;
+}
+.avto {
+background:#FFFFFF;
+cursor: pointer;
+border: 1px solid #282828;
+box-sizing: border-box;
+position: absolute;
+width: 224px;
+height: 50px;
+left: 40px;
+top: 160px;
+border: 1px solid rgba(89, 50, 234, 0.42);
+box-sizing: border-box;
+border-radius: 15px;
+ }
+ .avto2 {
+background:#FFFFFF;
+cursor: pointer;
+border: 1px solid #282828;
+box-sizing: border-box;
+position: absolute;
+width: 224px;
+height: 50px;
+left: 40px;
+top: 230px;
+border: 1px solid rgba(89, 50, 234, 0.42);
+box-sizing: border-box;
+border-radius: 15px;
+ }
+ .avto3 {
+background:#FFFFFF;
+cursor: pointer;
+border: 1px solid #282828;
+box-sizing: border-box;
+position: absolute;
+width: 224px;
+height: 50px;
+left: 40px;
+top: 300px;
+border: 1px solid rgba(89, 50, 234, 0.42);
+box-sizing: border-box;
+border-radius: 15px;
+ }
+ .avto4 {
+background:#FFFFFF;
+cursor: pointer;
+border: 1px solid #282828;
+box-sizing: border-box;
+position: absolute;
+width: 224px;
+height: 50px;
+left: 40px;
+top: 370px;
+border: 1px solid rgba(89, 50, 234, 0.42);
+box-sizing: border-box;
+border-radius: 15px;
+ }
+ .avto:hover {
+	background: #5932EA;
+	border-radius: 20px;
+    filter: drop-shadow(0 0 20px #5932EA;);
+}
+.avto2:hover {
+	background: #5932EA;
+	border-radius: 20px;
+    filter: drop-shadow(0 0 20px #5932EA;);
+}
+.avto3:hover {
+	background: #5932EA;
+	border-radius: 20px;
+    filter: drop-shadow(0 0 20px #5932EA;);
+}
+.avto4:hover {
+	background: #5932EA;
+	border-radius: 20px;
+    filter: drop-shadow(0 0 20px #5932EA;);
+}
+ p1{
+width: 157.55px;
+height: 17px;
+left: 69px;
+top: 4px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+
+letter-spacing: 0.1em;
+
+color: #000000;
+}
+.entrance:hover {
+	color: #FFFFFF;
+	text-decoration: none;
+}
+h1{
+width: 190px;
+height: 40px;
+left: 57px;
+top: 60px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 29px;
+line-height: 44px;
+text-align: center;
+letter-spacing: 0.04em;
+
+color: #5932EA;
+}
+article{
+    position: absolute;
+width: 304px;
+height: 1200px;
+left: 0px;
+top: 0px;
+
+background: #FFFFFF;
+box-shadow: 0px 10px 60px rgba(226, 236, 249, 0.5);
+
+}
