@@ -129,3 +129,34 @@ background: #FFFFFF;
 box-shadow: 0px 10px 60px rgba(226, 236, 249, 0.5);
 
 }
+.ava {
+    position: absolute;
+    width: 104px;
+    height: 100px;
+    left: 88px;
+    top: 900px;
+    
+    filter: drop-shadow(0px 1px 12px rgba(89, 50, 234, 0.5));
+}
+.darkmode {
+    position: absolute;
+width: 224px;
+height: 50px;
+left: 40px;
+top: 1030px;
+
+background: #5932EA;
+box-shadow: 0px 4px 4px rgba(89, 50, 234, 0.25);
+border-radius: 24px;
+}
+/*input[type=range] {
+    position: absolute;
+    width: 224px;
+    height: 50px;
+    left: 40px;
+    top: 1030px;
+    
+    background: #5932EA;
+    box-shadow: 0px 4px 4px rgba(89, 50, 234, 0.25);
+    border-radius: 24px;
+}*/
