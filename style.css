@@ -60,6 +60,20 @@ border: 1px solid rgba(89, 50, 234, 0.42);
 box-sizing: border-box;
 border-radius: 15px;
  }
+ .avto5 {
+ background:#FFFFFF;
+ cursor: pointer;
+ border: 1px solid #282828;
+ box-sizing: border-box;
+ position: absolute;
+ width: 224px;
+ height: 50px;
+ left: 40px;
+ top: 440px;
+ border: 1px solid rgba(89, 50, 234, 0.42);
+ box-sizing: border-box;
+ border-radius: 15px;
+  }
  .avto:hover {
 	background: #5932EA;
 	border-radius: 20px;
@@ -80,6 +94,10 @@ border-radius: 15px;
 	border-radius: 20px;
     filter: drop-shadow(0 0 20px #5932EA;);
 }
+.avto5:hover {
+	background: #5932EA;
+	border-radius: 20px;
+    filter: drop-shadow(0 0 20px #5932EA;);}
  p1{
 width: 157.55px;
 height: 17px;
@@ -148,6 +166,14 @@ top: 1030px;
 background: #5932EA;
 box-shadow: 0px 4px 4px rgba(89, 50, 234, 0.25);
 border-radius: 24px;
+}
+.img {
+
+position: absolute;
+width: 20px;
+height: 21px;
+left: 50px;
+top: 174px;
 }
 /*input[type=range] {
     position: absolute;
